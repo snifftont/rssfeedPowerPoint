@@ -4,7 +4,7 @@ Imports System.Linq
 Imports System.Text
 Namespace feedPowerPoint
     ''' <summary>
-    ''' RSS feed item entity
+    ''' RSS feed item entity Designed  and developed by Sandeep Thakur
     ''' </summary>
     Public Class RssFeedItem
         ''' <summary>

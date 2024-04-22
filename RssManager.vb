@@ -6,7 +6,7 @@ Imports System.Net
 Imports System.Data
 Namespace feedPowerPoint
     ''' <summary>
-    ''' RSS manager to read rss feeds
+    ''' RSS manager to read rss feeds designed and developed by Sandeep Thakur
     ''' </summary>
     Public Class RssManager
         ''' <summary>
